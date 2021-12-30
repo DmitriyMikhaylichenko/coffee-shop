@@ -1,0 +1,33 @@
+%title{
+    font-family: 'Righteous', cursive;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 130%;
+    color: #fff;
+}
+
+%subtitle {
+    font-family: 'Urbanist', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 122%;
+    color: #C99E71;
+}
+
+%btn {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 122%;
+}
+
+$text-color: rgba(255, 255, 255, 0.8); 
+    
+
+
+@media (max-width: 575.98px){}
+@media (max-width: 767.98px){}
+@media (max-width: 991.98px) {}
+@media (max-width: 1199.98px) {}
+@media (max-width: 1365.98px) {}
+@media (max-width: 1529.98px) {}
